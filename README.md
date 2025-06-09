@@ -1,2 +1,2 @@
 # Delta
-This is a Delta Web design 
+This is a Delta Web design.
