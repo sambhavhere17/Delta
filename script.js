@@ -1,8 +1,5 @@
-const maths = require("./math");
+const info = require("./fruits");
 
 console.log(process.argv);
 
-console.log(maths);
-console.log(maths.PI);
-maths;
-console.log(maths.mul(2, 6));
+console.log(info);
