@@ -8,9 +8,12 @@
   },
   "author": "Sambhav",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "figlet": "^1.8.1",
     "give-me-a-joke": "^0.5.1",
-    "react": "^19.1.0"
+    "random-word": "^3.0.0",
+    "react": "^19.1.0",
+    "type": "module"
   }
 }

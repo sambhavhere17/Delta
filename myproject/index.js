@@ -1,3 +1,3 @@
-const joke = require("give-me-a-joke");
+import randomWord from "random-word";
 
-console.log(joke);
+console.log(randomWord());
