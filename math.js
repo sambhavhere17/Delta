@@ -1,7 +1,4 @@
-let obj = {
-  sum: (a, b) => a + b,
-  mul: (a, b) => a * b,
-  g: 9.8,
-  PI: 3.14,
-};
-module.exports = obj;
+export const sum = (a, b) => a + b;
+export const mul = (a, b) => a * b;
+export const g = 9.8;
+export const PI = 3.14;
